@@ -1,0 +1,12 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "projekt:blocks/19e7607592eacdcafb2a624a0e9f2f03",
+    "up": "projekt:blocks/19e7607592eacdcafb2a624a0e9f2f03",
+    "north": "projekt:blocks/19e7607592eacdcafb2a624a0e9f2f03",
+    "east": "projekt:blocks/19e7607592eacdcafb2a624a0e9f2f03",
+    "south": "projekt:blocks/19e7607592eacdcafb2a624a0e9f2f03",
+    "west": "projekt:blocks/19e7607592eacdcafb2a624a0e9f2f03",
+    "particle": "projekt:blocks/19e7607592eacdcafb2a624a0e9f2f03"
+  }
+}

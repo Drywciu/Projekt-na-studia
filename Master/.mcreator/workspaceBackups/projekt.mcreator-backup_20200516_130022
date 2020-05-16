@@ -1,16 +1,28 @@
 {
   "id_map": {},
-  "mod_elements": [],
+  "mod_elements": [
+    {
+      "name": "BlokTestowy",
+      "type": "block",
+      "sortid": 1,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {}
+    }
+  ],
   "variable_elements": [],
   "sound_elements": [],
   "language_map": {
-    "en_us": {}
+    "en_us": {
+      "block.projekt.bloktestowy": "Blok Testowy"
+    }
   },
   "workspaceSettings": {
     "modid": "projekt",
     "modName": "Projekt",
     "version": "1.0.0",
     "author": "Drywciu",
+    "websiteURL": "https://mcreator.net",
     "disableForgeVersionCheck": true,
     "serverSideOnly": false,
     "requiredMods": [],
