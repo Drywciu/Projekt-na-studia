@@ -1,12 +1,12 @@
 {
   "parent": "block/cube",
   "textures": {
-    "down": "projekt:blocks/góry",
-    "up": "projekt:blocks/góry",
-    "north": "projekt:blocks/góry",
-    "east": "projekt:blocks/góry",
-    "south": "projekt:blocks/góry",
-    "west": "projekt:blocks/góry",
-    "particle": "projekt:blocks/góry"
+    "down": "projekt:blocks/gory",
+    "up": "projekt:blocks/gory",
+    "north": "projekt:blocks/gory",
+    "east": "projekt:blocks/gory",
+    "south": "projekt:blocks/gory",
+    "west": "projekt:blocks/gory",
+    "particle": "projekt:blocks/gory"
   }
 }

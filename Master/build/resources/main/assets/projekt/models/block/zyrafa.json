@@ -1,12 +1,12 @@
 {
   "parent": "block/cube",
   "textures": {
-    "down": "projekt:blocks/퓓rafa Zuzia",
-    "up": "projekt:blocks/퓓rafa Zuzia",
-    "north": "projekt:blocks/퓓rafa Zuzia",
-    "east": "projekt:blocks/퓓rafa Zuzia",
-    "south": "projekt:blocks/퓓rafa Zuzia",
-    "west": "projekt:blocks/퓓rafa Zuzia",
-    "particle": "projekt:blocks/퓓rafa Zuzia"
+    "down": "projekt:blocks/zyrafa",
+    "up": "projekt:blocks/zyrafa",
+    "north": "projekt:blocks/zyrafa",
+    "east": "projekt:blocks/zyrafa",
+    "south": "projekt:blocks/zyrafa",
+    "west": "projekt:blocks/zyrafa",
+    "particle": "projekt:blocks/zyrafa"
   }
 }

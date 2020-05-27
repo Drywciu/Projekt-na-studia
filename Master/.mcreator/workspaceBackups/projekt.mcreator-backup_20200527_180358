@@ -1,0 +1,118 @@
+{
+  "id_map": {},
+  "mod_elements": [
+    {
+      "name": "BlokTestowy",
+      "type": "block",
+      "sortid": 1,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {}
+    },
+    {
+      "name": "Delfinek",
+      "type": "block",
+      "sortid": 3,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {}
+    },
+    {
+      "name": "Goldred",
+      "type": "block",
+      "sortid": 4,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {}
+    },
+    {
+      "name": "Gory",
+      "type": "block",
+      "sortid": 5,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {}
+    },
+    {
+      "name": "Karmel",
+      "type": "block",
+      "sortid": 6,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {}
+    },
+    {
+      "name": "Szachownica",
+      "type": "block",
+      "sortid": 7,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {}
+    },
+    {
+      "name": "Szerry",
+      "type": "block",
+      "sortid": 8,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {}
+    },
+    {
+      "name": "Szmaragd",
+      "type": "block",
+      "sortid": 9,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {}
+    },
+    {
+      "name": "Znak",
+      "type": "block",
+      "sortid": 10,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {}
+    },
+    {
+      "name": "Zyrafa",
+      "type": "block",
+      "sortid": 11,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {}
+    }
+  ],
+  "variable_elements": [],
+  "sound_elements": [],
+  "language_map": {
+    "en_us": {
+      "block.projekt.szmaragd": "Szmaragd",
+      "block.projekt.znak": "Znak",
+      "block.projekt.szachownica": "Szachownica",
+      "block.projekt.bloktestowy": "Blok Testowy",
+      "block.projekt.goldred": "Gold red",
+      "block.projekt.karmel": "Karmel",
+      "block.projekt.gory": "Góry",
+      "block.projekt.zyrafa": "¯yrafa Zuzia",
+      "block.projekt.delfinek": "Delfinek",
+      "block.projekt.szerry": "Szerry"
+    }
+  },
+  "workspaceSettings": {
+    "modid": "projekt",
+    "modName": "Projekt",
+    "version": "1.0.0",
+    "author": "Drywciu",
+    "websiteURL": "https://mcreator.net",
+    "disableForgeVersionCheck": true,
+    "serverSideOnly": false,
+    "requiredMods": [],
+    "dependencies": [],
+    "dependants": [],
+    "mcreatorDependencies": [],
+    "currentGenerator": "1.14.4",
+    "modElementsPackage": "net.elo.projekt",
+    "lockBaseModFiles": false
+  },
+  "mcreatorVersion": 202000213314
+}
