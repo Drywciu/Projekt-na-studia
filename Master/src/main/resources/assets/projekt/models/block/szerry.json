@@ -1,0 +1,12 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "projekt:blocks/szerrry",
+    "up": "projekt:blocks/szerrry",
+    "north": "projekt:blocks/szerrry",
+    "east": "projekt:blocks/szerrry",
+    "south": "projekt:blocks/szerrry",
+    "west": "projekt:blocks/szerrry",
+    "particle": "projekt:blocks/szerrry"
+  }
+}

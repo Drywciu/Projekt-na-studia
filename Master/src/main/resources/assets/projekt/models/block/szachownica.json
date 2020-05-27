@@ -1,0 +1,12 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "projekt:blocks/szachownica",
+    "up": "projekt:blocks/szachownica",
+    "north": "projekt:blocks/szachownica",
+    "east": "projekt:blocks/szachownica",
+    "south": "projekt:blocks/szachownica",
+    "west": "projekt:blocks/szachownica",
+    "particle": "projekt:blocks/szachownica"
+  }
+}

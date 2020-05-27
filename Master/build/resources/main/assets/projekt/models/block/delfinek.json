@@ -1,0 +1,12 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "projekt:blocks/delfinek",
+    "up": "projekt:blocks/delfinek",
+    "north": "projekt:blocks/delfinek",
+    "east": "projekt:blocks/delfinek",
+    "south": "projekt:blocks/delfinek",
+    "west": "projekt:blocks/delfinek",
+    "particle": "projekt:blocks/delfinek"
+  }
+}

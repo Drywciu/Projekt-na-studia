@@ -1,0 +1,12 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "projekt:blocks/bird -dziobek",
+    "up": "projekt:blocks/bird -dziobek",
+    "north": "projekt:blocks/bird -dziobek",
+    "east": "projekt:blocks/bird -dziobek",
+    "south": "projekt:blocks/bird -dziobek",
+    "west": "projekt:blocks/bird -dziobek",
+    "particle": "projekt:blocks/bird -dziobek"
+  }
+}

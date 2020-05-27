@@ -1,0 +1,12 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "projekt:blocks/znak",
+    "up": "projekt:blocks/znak",
+    "north": "projekt:blocks/znak",
+    "east": "projekt:blocks/znak",
+    "south": "projekt:blocks/znak",
+    "west": "projekt:blocks/znak",
+    "particle": "projekt:blocks/znak"
+  }
+}
