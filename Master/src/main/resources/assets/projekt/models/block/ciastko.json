@@ -1,0 +1,12 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "projekt:blocks/babeczka",
+    "up": "projekt:blocks/babeczka",
+    "north": "projekt:blocks/babeczka",
+    "east": "projekt:blocks/babeczka",
+    "south": "projekt:blocks/babeczka",
+    "west": "projekt:blocks/babeczka",
+    "particle": "projekt:blocks/babeczka"
+  }
+}
